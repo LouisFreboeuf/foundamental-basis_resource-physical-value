@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as well as the associated article."
+title: "Foundational basis of resource physical value: chemical exergy, concentration energy and statistical entropy calculations"
+abstract: "Supporting data and code (Online Resource 4) for the critical review 'Resource Assessment methods in Industrial Ecology and Process Engineering: a critical review towards improved consideration in LCA'. Contains Jupyter notebooks computing standard reference species chemical exergy (Figs. 4-5), statistical entropy visualisations, and Cumulative Exergy Demand calculations."
+authors:
+  - family-names: Freboeuf
+    given-names: Louis
+    email: louis.freboeuf@u-bordeaux.fr
+  - family-names: Sonnemann
+    given-names: Guido
+  - family-names: Magdalena
+    given-names: Ricardo
+  - family-names: Rechberger
+    given-names: Helmut
+  - family-names: Beylot
+    given-names: Antoine
+keywords:
+  - industrial ecology
+  - life cycle assessment
+  - resource assessment
+  - exergy
+  - statistical entropy
+license: CC-BY-4.0
+type: dataset
+repository-code: "https://github.com/LouisFreboeuf/foundamental-basis_resource-physical-value"
+funding:
+  - name: "French National Research Agency (ANR), France 2030"
+    awardNumber: "ANR-22-PERE-0003"

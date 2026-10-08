@@ -1,0 +1,37 @@
+{
+  "title": "Foundational basis of resource physical value: chemical exergy, concentration energy and statistical entropy calculations (Online Resource 4)",
+  "description": "<p>Supporting data and code for the review article 'Resource Assessment methods in Industrial Ecology and Process Engineering: a critical review towards improved consideration in LCA' (Freboeuf, Sonnemann, Magdalena, Rechberger, Beylot). The repository contains Jupyter notebooks computing standard reference species chemical exergy across ten modelling configurations (producing Figs. 4 and 5 of the article), statistical entropy visualisations, and Cumulative Exergy Demand (CExD) calculations based on ecoinvent v3.12.</p><p>Funding: French National Research Agency (ANR) under France 2030, reference ANR-22-PERE-0003.</p>",
+  "upload_type": "software",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Freboeuf, Louis",
+      "affiliation": "ISM, Univ. Bordeaux, CNRS, Bordeaux INP, Talence, France"
+    },
+    {
+      "name": "Sonnemann, Guido",
+      "affiliation": "ISM, Univ. Bordeaux, CNRS, Bordeaux INP, Talence, France"
+    },
+    {
+      "name": "Magdalena, Ricardo",
+      "affiliation": "Ghent University, STEN, Ghent, Belgium"
+    },
+    {
+      "name": "Rechberger, Helmut",
+      "affiliation": "TU Wien, Vienna, Austria"
+    },
+    {
+      "name": "Beylot, Antoine",
+      "affiliation": "BRGM, French Geological Survey, Orleans, France"
+    }
+  ],
+  "keywords": [
+    "industrial ecology",
+    "life cycle assessment",
+    "resource assessment",
+    "exergy",
+    "statistical entropy"
+  ],
+  "access_right": "open",
+  "notes": "Online Resource 4 of the article. ecoinvent v3.12 datasets are not included and require a licence from https://ecoinvent.org"
+}
